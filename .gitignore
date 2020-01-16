@@ -17,3 +17,8 @@ datasets/spam
 datasets/titanic
 datasets/words
 
+datasets/housing/original_as_checked_out/housing.csv
+datasets/housing/original_as_checked_out/housing.tgz
+.vscode/settings.json
+02_end_to_end_machine_learning_project.ipynb
+01_the_machine_learning_landscape.ipynb
