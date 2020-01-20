@@ -3,6 +3,6 @@
 List: 
 - [x] Ch 06 requires graphviz
 - [x] WARNING: DO NOT INSTALL "graphviz" by itself
-- [ ] PREREQ: `sudo apt-get install graphviz`
+- [x] PREREQ: `sudo apt-get install graphviz`
 - [x] Then, first, install: `conda install -n mlbook python-graphviz`
 - [x] Then, install: `conda install -n mlbook python-graphviz`
