@@ -11,11 +11,15 @@ tf_logs/*
 images/**/*.png
 images/**/*.dot
 my_*
+person.proto
+person.desc
+person_pb2.py
 datasets/flowers
 datasets/lifesat/lifesat.csv
 datasets/spam
 datasets/titanic
 datasets/words
+datasets/jsb_chorales
 
 datasets/housing/original_as_checked_out/housing.csv
 datasets/housing/original_as_checked_out/housing.tgz
